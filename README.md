@@ -2,6 +2,12 @@
 
 Unity project for comparing the shooter sample's AtlasNet client- and server-authoritative players, including cross-server handoff scenes.
 
+## Presentation
+
+[![Play the AtlasNet cross-server shooter presentation](Presenting/CrossServerDemo.svg)](https://youtu.be/4-gM8oYjoGM)
+
+[Watch the full presentation on YouTube](https://youtu.be/4-gM8oYjoGM).
+
 Open this repository root in Unity **6000.6.2f1**. Unity Package Manager resolves AtlasNet Unity from the Git revision pinned in `Packages/manifest.json` and `Packages/packages-lock.json`.
 
 Scenes in `Assets/Scenes`:

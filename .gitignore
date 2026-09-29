@@ -19,6 +19,9 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Presentation recordings are hosted externally; keep local copies out of Git.
+/Presenting/*.mp4
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
