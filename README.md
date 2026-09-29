@@ -2,11 +2,9 @@
 
 Unity project for comparing the shooter sample's AtlasNet client- and server-authoritative players, including cross-server handoff scenes.
 
-## Presentation
+## Video Demo
 
 [![Play the AtlasNet cross-server shooter presentation](Presenting/CrossServerDemo.svg)](https://youtu.be/4-gM8oYjoGM)
-
-[Watch the full presentation on YouTube](https://youtu.be/4-gM8oYjoGM).
 
 download this repo as zip and extract
 
